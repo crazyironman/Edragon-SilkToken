@@ -110,7 +110,7 @@
   top:0px;
   width:0px;
   visibility:hidden;
-  white-space:nowrap;
+  word-wrap:break-word;
 }
 #u16_div {
   border-width:0px;
@@ -2946,7 +2946,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:43px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2966,7 +2966,7 @@
   position:absolute;
   left:100px;
   top:82px;
-  width:57px;
+  width:43px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
@@ -2979,7 +2979,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:43px;
   white-space:nowrap;
 }
 #u117_div {
