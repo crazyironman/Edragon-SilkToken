@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u7_img {
+#u11_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:375px;
   height:1560px;
 }
-#u7 {
+#u11 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -28,16 +28,16 @@
   width:375px;
   height:1560px;
 }
-#u7_text {
+#u12 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
+  left:2px;
+  top:772px;
+  width:371px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u8_img {
+#u13_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -45,7 +45,7 @@
   width:320px;
   height:135px;
 }
-#u8 {
+#u13 {
   border-width:0px;
   position:absolute;
   left:10px;
@@ -53,16 +53,16 @@
   width:320px;
   height:135px;
 }
-#u8_text {
+#u14 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
+  left:2px;
+  top:60px;
+  width:316px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u9 {
+#u15 {
   border-width:0px;
   position:absolute;
   left:195px;
@@ -72,7 +72,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u10 {
+#u16 {
   border-width:0px;
   position:absolute;
   left:310px;
@@ -82,7 +82,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u11_img {
+#u17_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -90,7 +90,7 @@
   width:125px;
   height:39px;
 }
-#u11 {
+#u17 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -98,16 +98,16 @@
   width:125px;
   height:39px;
 }
-#u11_text {
+#u18 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
+  left:2px;
+  top:12px;
+  width:121px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u12_img {
+#u19_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -115,7 +115,7 @@
   width:25px;
   height:19px;
 }
-#u12 {
+#u19 {
   border-width:0px;
   position:absolute;
   left:15px;
@@ -123,16 +123,16 @@
   width:25px;
   height:19px;
 }
-#u12_text {
+#u20 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
+  left:2px;
+  top:2px;
+  width:21px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u13_div {
+#u21_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -152,7 +152,7 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u13 {
+#u21 {
   border-width:0px;
   position:absolute;
   left:49px;
@@ -165,7 +165,7 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u13_text {
+#u22 {
   border-width:0px;
   position:absolute;
   left:0px;
