@@ -16,86 +16,21 @@
   position:absolute;
   z-index:0;
 }
-#u368_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:375px;
-  height:58px;
-}
-#u368 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:375px;
-  height:58px;
-}
-#u368_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u369_img {
-  border-width:0px;
-  position:absolute;
-  left:-2px;
-  top:-2px;
-  width:122px;
-  height:21px;
-}
-#u369 {
-  border-width:0px;
-  position:absolute;
-  left:139px;
-  top:30px;
-  width:118px;
-  height:17px;
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:#FFFFFF;
-}
-#u369_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:118px;
-  word-wrap:break-word;
-}
-#u370 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:21px;
-  width:100px;
-  height:38px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
 #u371_img {
   border-width:0px;
   position:absolute;
-  left:-3px;
-  top:-3px;
-  width:381px;
-  height:832px;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:58px;
 }
 #u371 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:56px;
+  top:0px;
   width:375px;
-  height:826px;
-  opacity:0.8;
+  height:58px;
 }
 #u371_text {
   border-width:0px;
@@ -111,21 +46,58 @@
   position:absolute;
   left:-2px;
   top:-2px;
-  width:351px;
-  height:626px;
+  width:122px;
+  height:21px;
 }
 #u372 {
   border-width:0px;
   position:absolute;
-  left:14px;
-  top:208px;
-  width:347px;
-  height:622px;
-  font-family:'微软雅黑 Regular', '微软雅黑';
+  left:139px;
+  top:30px;
+  width:118px;
+  height:17px;
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
 }
 #u372_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:118px;
+  word-wrap:break-word;
+}
+#u373 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:21px;
+  width:100px;
+  height:38px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u374_img {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:-3px;
+  width:381px;
+  height:832px;
+}
+#u374 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:56px;
+  width:375px;
+  height:826px;
+  opacity:0.8;
+}
+#u374_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -134,7 +106,35 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u373_img {
+#u375_img {
+  border-width:0px;
+  position:absolute;
+  left:-2px;
+  top:-2px;
+  width:351px;
+  height:626px;
+}
+#u375 {
+  border-width:0px;
+  position:absolute;
+  left:14px;
+  top:208px;
+  width:347px;
+  height:622px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+}
+#u375_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u376_img {
   border-width:0px;
   position:absolute;
   left:-3px;
@@ -142,7 +142,7 @@
   width:314px;
   height:111px;
 }
-#u373 {
+#u376 {
   border-width:0px;
   position:absolute;
   left:27px;
@@ -150,7 +150,7 @@
   width:308px;
   height:105px;
 }
-#u373_text {
+#u376_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -159,7 +159,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u374_img {
+#u377_img {
   border-width:0px;
   position:absolute;
   left:-2px;
@@ -167,7 +167,7 @@
   width:126px;
   height:17px;
 }
-#u374 {
+#u377 {
   border-width:0px;
   position:absolute;
   left:27px;
@@ -176,7 +176,7 @@
   height:13px;
   font-size:10px;
 }
-#u374_text {
+#u377_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -184,7 +184,7 @@
   width:122px;
   white-space:nowrap;
 }
-#u375_img {
+#u378_img {
   border-width:0px;
   position:absolute;
   left:-2px;
@@ -192,7 +192,7 @@
   width:335px;
   height:626px;
 }
-#u375 {
+#u378 {
   border-width:0px;
   position:absolute;
   left:22px;
@@ -200,7 +200,7 @@
   width:331px;
   height:622px;
 }
-#u375_text {
+#u378_text {
   border-width:0px;
   position:absolute;
   left:0px;
