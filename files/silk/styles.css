@@ -1314,3 +1314,28 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u132_img {
+  border-width:0px;
+  position:absolute;
+  left:-4px;
+  top:-4px;
+  width:20px;
+  height:20px;
+}
+#u132 {
+  border-width:0px;
+  position:absolute;
+  left:238px;
+  top:359px;
+  width:10px;
+  height:10px;
+}
+#u132_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
