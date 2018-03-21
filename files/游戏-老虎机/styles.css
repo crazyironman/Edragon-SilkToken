@@ -18,7 +18,7 @@
   left:0px;
   top:0px;
   width:375px;
-  height:490px;
+  height:520px;
   background:inherit;
   background-color:rgba(215, 215, 215, 1);
   border:none;
@@ -33,7 +33,7 @@
   left:0px;
   top:565px;
   width:375px;
-  height:490px;
+  height:520px;
 }
 #u335_text {
   border-width:0px;
@@ -1863,6 +1863,31 @@
   height:19px;
 }
 #u399_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u400_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:21px;
+  height:20px;
+}
+#u400 {
+  border-width:0px;
+  position:absolute;
+  left:169px;
+  top:1055px;
+  width:21px;
+  height:20px;
+}
+#u400_text {
   border-width:0px;
   position:absolute;
   left:0px;
