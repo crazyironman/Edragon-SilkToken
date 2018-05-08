@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u10_img {
+#u12_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:375px;
   height:1560px;
 }
-#u10 {
+#u12 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -28,7 +28,7 @@
   width:375px;
   height:1560px;
 }
-#u10_text {
+#u12_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -37,7 +37,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u11_img {
+#u13_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -45,7 +45,7 @@
   width:320px;
   height:135px;
 }
-#u11 {
+#u13 {
   border-width:0px;
   position:absolute;
   left:10px;
@@ -53,7 +53,7 @@
   width:320px;
   height:135px;
 }
-#u11_text {
+#u13_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -62,7 +62,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u12 {
+#u14 {
   border-width:0px;
   position:absolute;
   left:195px;
@@ -72,7 +72,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u13 {
+#u15 {
   border-width:0px;
   position:absolute;
   left:310px;
@@ -82,7 +82,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u14_img {
+#u16_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -90,7 +90,7 @@
   width:125px;
   height:39px;
 }
-#u14 {
+#u16 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -98,7 +98,7 @@
   width:125px;
   height:39px;
 }
-#u14_text {
+#u16_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -107,7 +107,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u15_img {
+#u17_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -115,7 +115,7 @@
   width:25px;
   height:19px;
 }
-#u15 {
+#u17 {
   border-width:0px;
   position:absolute;
   left:15px;
@@ -123,7 +123,7 @@
   width:25px;
   height:19px;
 }
-#u15_text {
+#u17_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -132,7 +132,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u16_div {
+#u18_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -152,7 +152,7 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u16 {
+#u18 {
   border-width:0px;
   position:absolute;
   left:49px;
@@ -165,7 +165,7 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u16_text {
+#u18_text {
   border-width:0px;
   position:absolute;
   left:0px;
